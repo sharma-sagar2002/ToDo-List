@@ -1,0 +1,35 @@
+#cont{
+    border: 2px solid black;
+    width: 60%;
+    margin: auto;
+   
+    padding: 10px;
+}
+.search{
+    text-align: center;
+}
+#sbar{
+  height: 30px;
+  width :50%;
+}
+.btn{
+   height : 35px;
+   width: 60px;
+}
+
+.item-btn{
+    
+    cursor: pointer;
+   /* position: absolute; */
+    margin-left: 30rem;
+    
+    
+}
+.btn{
+    cursor: pointer;
+}
+#list-cont{
+    list-style-type: none;
+    
+    
+}
